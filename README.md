@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **Contact me at: thaithaihoanggiathoai@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1J6VjyDGJrBQK7QIKhpQ5vVbtUkEhrB_J?hl=vi](https://drive.google.com/drive/folders/1J6VjyDGJrBQK7QIKhpQ5vVbtUkEhrB_J?hl=vi)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Planterian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Planterian" height="30" width="40" /></a>
